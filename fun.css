@@ -1,0 +1,58 @@
+p {
+  font-family: "Roboto";
+  font-size: "16px";
+  color: #4F9985;
+}
+
+h1 {
+  color: #233E45;
+  text-align: center;
+}
+
+h3 {
+  color: #FF4B58;
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+h4 {
+  color: #233E45;
+  font-family: "Arial";
+  text-align: center;
+}
+
+header {
+  width: 100%;
+  background-color: #BB78E6;
+  border-radius: 12px;
+  
+}
+
+footer {
+  width: 100%;
+  background-color: #697CCC;
+  border-radius: 12px;
+  text-align: right;
+}
+
+.lists {
+  text-align: center;
+}
+
+.first {
+  text-align: center;
+}
+
+th {
+  font-family: "Sans Serif";
+  font-size: 20px;
+  color: #697CCC;
+}
+
+.website {
+  text-align: left;
+}
+
+/*233E45 Navy  FF4B58 Coral  4F9985 Teal  BB78E6 Lavender  697CCC Periwinkle  */
